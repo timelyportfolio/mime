@@ -58,6 +58,7 @@ local({
 #' @usage NULL
 #' @format NULL
 mimeextra = c(
+  js = "text/javascript",
   geojson = "application/vnd.geo+json",
   gpkg = "application/geopackage+sqlite3",
   jsonp = "application/javascript",
